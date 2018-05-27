@@ -1,0 +1,44 @@
+2018-05-20 18:15:14,540 - DEBUG-debug
+2018-05-20 18:15:14,540 - INFO-info
+2018-05-20 18:15:14,540 - WARNING-waring
+2018-05-20 18:15:14,540 - ERROR-error
+2018-05-20 18:15:14,540 - CRITICAL-critical
+05202018 18:17:47 PM - DEBUG-debug
+05202018 18:17:47 PM - INFO-info
+05202018 18:17:47 PM - WARNING-waring
+05202018 18:17:47 PM - ERROR-error
+05202018 18:17:47 PM - CRITICAL-critical
+20180520 18:18:16 PM - DEBUG-debug
+20180520 18:18:16 PM - INFO-info
+20180520 18:18:16 PM - WARNING-waring
+20180520 18:18:16 PM - ERROR-error
+20180520 18:18:16 PM - CRITICAL-critical
+2018-05-20 18:19:17 PM - DEBUG-debug
+2018-05-20 18:19:17 PM - INFO-info
+2018-05-20 18:19:17 PM - WARNING-waring
+2018-05-20 18:19:17 PM - ERROR-error
+2018-05-20 18:19:17 PM - CRITICAL-critical
+2018-05-20 18:20:31 PM - DEBUG-debug
+2018-05-20 18:20:31 PM - INFO-info
+2018-05-20 18:20:31 PM - WARNING-waring
+2018-05-20 18:20:31 PM - ERROR-error
+2018-05-20 18:20:31 PM - CRITICAL-critical
+2018-05-20 18:20:31 PM - DEBUG-debug
+2018-05-20 18:20:31 PM - CRITICAL-critical
+2018-05-20 18:31:28 PM - WARNING-Tom[56.578.23.13]-some one delete the log file
+NoneType: None
+Stack (most recent call last):
+  File "F:/DataDriverFrameWork/test/loggingbasic.py", line 7, in <module>
+    exc_info=True, stack_info=True, extra={'user':'Tom','ip':'56.578.23.13'})
+2018-05-20 18:50:57 PM - WARNING-Tom[56.578.23.13]-some one delete the log file
+NoneType: None
+Stack (most recent call last):
+  File "F:/DataDriverFrameWork/test/loggingbasic.py", line 10, in <module>
+    exc_info=True, stack_info=True, extra={'user':'Tom','ip':'56.578.23.13'})
+2018-05-21 22:30:33 PM - WARNING-Tom[56.578.23.13]-someone delete the log file
+NoneType: None
+Stack (most recent call last):
+  File "F:/DataDriverFrameWork/test/loggingbasic.py", line 11, in <module>
+    exc_info=True, stack_info=True, extra={'user':'Tom','ip':'56.578.23.13'})
+2018-05-21 23:11:03,206 / simple_logger / ERROR / error message
+2018-05-21 23:11:03,206 / simple_logger / CRITICAL / critical message

@@ -1,0 +1,14 @@
+2018-05-13 18:49:25,707 F:\DataDriverFrameWork\test\test1.py(12): INFO test1 info mesage will wirte in test1.log
+2018-05-13 18:49:25,707 F:\DataDriverFrameWork\test\test1.py(13): WARNING test1 warning mesage will wirte in test1.log
+2018-05-13 18:49:25,707 F:\DataDriverFrameWork\test\test1.py(14): DEBUG test1 debug mesage will wirte in test1.log
+2018-05-13 18:54:31,754 F:\DataDriverFrameWork\test\test1.py(12): INFO test1 info mesage will wirte in test1.log
+2018-05-13 18:54:31,754 F:\DataDriverFrameWork\test\test1.py(13): WARNING test1 warning mesage will wirte in test1.log
+2018-05-13 18:54:31,754 F:\DataDriverFrameWork\test\test1.py(14): DEBUG test1 debug mesage will wirte in test1.log
+2018-05-13 18:54:47,807 F:\DataDriverFrameWork\test\test1.py(12): INFO test1 info mesage will wirte in test1.log
+2018-05-13 18:54:47,807 F:\DataDriverFrameWork\test\test1.py(13): WARNING test1 warning mesage will wirte in test1.log
+2018-05-13 18:54:47,807 F:\DataDriverFrameWork\test\test1.py(14): DEBUG test1 debug mesage will wirte in test1.log
+2018-05-13 19:00:53,993 F:/DataDriverFrameWork/test/test1.py(12): INFO test1 info mesage will wirte in test1.log
+2018-05-13 19:00:53,993 F:/DataDriverFrameWork/test/test1.py(13): WARNING test1 warning mesage will wirte in test1.log
+2018-05-13 19:00:53,993 F:/DataDriverFrameWork/test/test1.py(14): DEBUG test1 debug mesage will wirte in test1.log
+2018-05-13 19:01:33,962 F:/DataDriverFrameWork/test/test1.py(18): INFO test1 info mesage will wirte in test1.log
+2018-05-13 19:01:56,816 F:/DataDriverFrameWork/test/test1.py(18): INFO test1 info mesage will wirte in test1.log

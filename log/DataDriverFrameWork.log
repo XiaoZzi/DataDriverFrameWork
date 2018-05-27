@@ -1,0 +1,95 @@
+2018/05/23/23:38:33 [TestAddContracts.py line:36]INFO:添加联系人数据驱动测试开始
+2018/05/23/23:38:49 [TestAddContracts.py line:36]INFO:添加联系人数据驱动测试开始
+2018/05/23/23:39:00 [TestAddContracts.py line:58]DEBUG:启动浏览器，访问主页
+2018/05/23/23:39:01 [TestAddContracts.py line:62]DEBUG:用户18513510827密码123456正在进行登录
+2018/05/23/23:39:04 [TestAddContracts.py line:66]INFO:用户18513510827登录成功
+2018/05/23/23:39:04 [TestAddContracts.py line:95]DEBUG:用户 18513510827 需要添加联系人对象 lili
+2018/05/23/23:39:12 [TestAddContracts.py line:109]DEBUG:用户 18513510827 添加联系人对象名字lili电话1111111邮箱lili@qq.com
+2018/05/23/23:39:12 [TestAddContracts.py line:132]DEBUG:用户 18513510827 添加联系人lili成功
+2018/05/23/23:39:12 [TestAddContracts.py line:137]DEBUG:需要添加的联系人个数contractNum为 = 1, 添加成功的联系人个数isExecuteNum为 = 1
+2018/05/23/23:39:12 [TestAddContracts.py line:146]INFO:为用户18513510827 添加 1个联系人，测试通过
+2018/05/23/23:39:12 [TestAddContracts.py line:95]DEBUG:用户 18513510827 需要添加联系人对象 zhangsan
+2018/05/23/23:39:21 [TestAddContracts.py line:109]DEBUG:用户 18513510827 添加联系人对象名字zhangsan电话2222222邮箱zhangsan@qq.com
+2018/05/23/23:39:21 [TestAddContracts.py line:132]DEBUG:用户 18513510827 添加联系人zhangsan成功
+2018/05/23/23:39:21 [TestAddContracts.py line:137]DEBUG:需要添加的联系人个数contractNum为 = 2, 添加成功的联系人个数isExecuteNum为 = 2
+2018/05/23/23:39:21 [TestAddContracts.py line:146]INFO:为用户18513510827 添加 2个联系人，测试通过
+2018/05/23/23:39:21 [TestAddContracts.py line:95]DEBUG:用户 18513510827 需要添加联系人对象 wangwu
+2018/05/23/23:39:29 [TestAddContracts.py line:109]DEBUG:用户 18513510827 添加联系人对象名字wangwu电话3333333邮箱wangwu@qq.com
+2018/05/23/23:39:29 [TestAddContracts.py line:132]DEBUG:用户 18513510827 添加联系人wangwu成功
+2018/05/23/23:39:29 [TestAddContracts.py line:137]DEBUG:需要添加的联系人个数contractNum为 = 3, 添加成功的联系人个数isExecuteNum为 = 3
+2018/05/23/23:39:29 [TestAddContracts.py line:146]INFO:为用户18513510827 添加 3个联系人，测试通过
+2018/05/23/23:39:29 [TestAddContracts.py line:134]DEBUG:用户 18513510827 不需要添加联系人对象 xixi
+2018/05/23/23:39:29 [TestAddContracts.py line:137]DEBUG:需要添加的联系人个数contractNum为 = 3, 添加成功的联系人个数isExecuteNum为 = 3
+2018/05/23/23:39:29 [TestAddContracts.py line:146]INFO:为用户18513510827 添加 3个联系人，测试通过
+2018/05/23/23:39:32 [TestAddContracts.py line:158]INFO:用户18513415253被设置为忽略执行
+2018/05/23/23:39:32 [TestAddContracts.py line:158]INFO:用户18513415254被设置为忽略执行
+2018/05/23/23:39:42 [TestAddContracts.py line:58]DEBUG:启动浏览器，访问主页
+2018/05/23/23:39:44 [TestAddContracts.py line:62]DEBUG:用户980850796@qq.com密码123456正在进行登录
+2018/05/23/23:39:47 [TestAddContracts.py line:66]INFO:用户980850796@qq.com登录成功
+2018/05/23/23:39:47 [TestAddContracts.py line:95]DEBUG:用户 980850796@qq.com 需要添加联系人对象 hh
+2018/05/23/23:39:55 [TestAddContracts.py line:109]DEBUG:用户 980850796@qq.com 添加联系人对象名字hh电话1111111邮箱hh@qq.com
+2018/05/23/23:39:55 [TestAddContracts.py line:132]DEBUG:用户 980850796@qq.com 添加联系人hh成功
+2018/05/23/23:39:55 [TestAddContracts.py line:137]DEBUG:需要添加的联系人个数contractNum为 = 1, 添加成功的联系人个数isExecuteNum为 = 1
+2018/05/23/23:39:55 [TestAddContracts.py line:146]INFO:为用户980850796@qq.com 添加 1个联系人，测试通过
+2018/05/23/23:39:55 [TestAddContracts.py line:95]DEBUG:用户 980850796@qq.com 需要添加联系人对象 xii
+2018/05/23/23:40:03 [TestAddContracts.py line:109]DEBUG:用户 980850796@qq.com 添加联系人对象名字xii电话2222222邮箱xixi@qq.com
+2018/05/23/23:40:03 [TestAddContracts.py line:132]DEBUG:用户 980850796@qq.com 添加联系人xii成功
+2018/05/23/23:40:03 [TestAddContracts.py line:137]DEBUG:需要添加的联系人个数contractNum为 = 2, 添加成功的联系人个数isExecuteNum为 = 2
+2018/05/23/23:40:03 [TestAddContracts.py line:146]INFO:为用户980850796@qq.com 添加 2个联系人，测试通过
+2018/05/23/23:40:03 [TestAddContracts.py line:134]DEBUG:用户 980850796@qq.com 不需要添加联系人对象 wahd
+2018/05/23/23:40:03 [TestAddContracts.py line:137]DEBUG:需要添加的联系人个数contractNum为 = 2, 添加成功的联系人个数isExecuteNum为 = 2
+2018/05/23/23:40:03 [TestAddContracts.py line:146]INFO:为用户980850796@qq.com 添加 2个联系人，测试通过
+2018/05/23/23:40:03 [TestAddContracts.py line:95]DEBUG:用户 980850796@qq.com 需要添加联系人对象 chsh
+2018/05/23/23:40:12 [TestAddContracts.py line:109]DEBUG:用户 980850796@qq.com 添加联系人对象名字chsh电话444444444邮箱chsh@qq.com
+2018/05/23/23:40:12 [TestAddContracts.py line:132]DEBUG:用户 980850796@qq.com 添加联系人chsh成功
+2018/05/23/23:40:12 [TestAddContracts.py line:137]DEBUG:需要添加的联系人个数contractNum为 = 3, 添加成功的联系人个数isExecuteNum为 = 3
+2018/05/23/23:40:12 [TestAddContracts.py line:146]INFO:为用户980850796@qq.com 添加 3个联系人，测试通过
+2018/05/23/23:40:15 [TestAddContracts.py line:158]INFO:用户18513415256被设置为忽略执行
+2018/05/23/23:44:07 [TestAddContracts.py line:36]INFO:添加联系人数据驱动测试开始
+2018/05/23/23:44:17 [TestAddContracts.py line:58]DEBUG:启动浏览器，访问主页
+2018/05/23/23:44:38 [TestAddContracts.py line:62]DEBUG:用户18513510827密码123456正在进行登录
+2018/05/23/23:44:45 [TestAddContracts.py line:66]INFO:用户18513510827登录成功
+2018/05/23/23:44:45 [TestAddContracts.py line:95]DEBUG:用户 18513510827 需要添加联系人对象 lili
+2018/05/23/23:45:22 [TestAddContracts.py line:109]DEBUG:用户 18513510827 添加联系人对象名字lili电话1111111邮箱lili@qq.com
+2018/05/23/23:45:22 [TestAddContracts.py line:132]DEBUG:用户 18513510827 添加联系人lili成功
+2018/05/23/23:45:22 [TestAddContracts.py line:137]DEBUG:需要添加的联系人个数contractNum为 = 1, 添加成功的联系人个数isExecuteNum为 = 1
+2018/05/23/23:45:22 [TestAddContracts.py line:146]DEBUG:为用户18513510827 添加 1个联系人，测试通过
+2018/05/23/23:45:22 [TestAddContracts.py line:95]DEBUG:用户 18513510827 需要添加联系人对象 zhangsan
+2018/05/23/23:45:45 [TestAddContracts.py line:109]DEBUG:用户 18513510827 添加联系人对象名字zhangsan电话2222222邮箱zhangsan@qq.com
+2018/05/23/23:45:46 [TestAddContracts.py line:132]DEBUG:用户 18513510827 添加联系人zhangsan成功
+2018/05/23/23:45:46 [TestAddContracts.py line:137]DEBUG:需要添加的联系人个数contractNum为 = 2, 添加成功的联系人个数isExecuteNum为 = 2
+2018/05/23/23:45:46 [TestAddContracts.py line:146]DEBUG:为用户18513510827 添加 2个联系人，测试通过
+2018/05/23/23:45:46 [TestAddContracts.py line:95]DEBUG:用户 18513510827 需要添加联系人对象 wangwu
+2018/05/23/23:46:15 [TestAddContracts.py line:109]DEBUG:用户 18513510827 添加联系人对象名字wangwu电话3333333邮箱wangwu@qq.com
+2018/05/23/23:46:15 [TestAddContracts.py line:132]DEBUG:用户 18513510827 添加联系人wangwu成功
+2018/05/23/23:46:15 [TestAddContracts.py line:137]DEBUG:需要添加的联系人个数contractNum为 = 3, 添加成功的联系人个数isExecuteNum为 = 3
+2018/05/23/23:46:15 [TestAddContracts.py line:146]DEBUG:为用户18513510827 添加 3个联系人，测试通过
+2018/05/23/23:46:15 [TestAddContracts.py line:134]DEBUG:用户 18513510827 不需要添加联系人对象 xixi
+2018/05/23/23:46:15 [TestAddContracts.py line:137]DEBUG:需要添加的联系人个数contractNum为 = 3, 添加成功的联系人个数isExecuteNum为 = 3
+2018/05/23/23:46:15 [TestAddContracts.py line:146]DEBUG:为用户18513510827 添加 3个联系人，测试通过
+2018/05/23/23:46:19 [TestAddContracts.py line:155]INFO:为用户18513510827 添加 3个联系人，测试通过
+2018/05/23/23:46:19 [TestAddContracts.py line:160]INFO:用户18513415253被设置为忽略执行
+2018/05/23/23:46:19 [TestAddContracts.py line:160]INFO:用户18513415254被设置为忽略执行
+2018/05/23/23:46:28 [TestAddContracts.py line:58]DEBUG:启动浏览器，访问主页
+2018/05/23/23:46:30 [TestAddContracts.py line:62]DEBUG:用户980850796@qq.com密码123456正在进行登录
+2018/05/23/23:46:33 [TestAddContracts.py line:66]INFO:用户980850796@qq.com登录成功
+2018/05/23/23:46:33 [TestAddContracts.py line:95]DEBUG:用户 980850796@qq.com 需要添加联系人对象 hh
+2018/05/23/23:46:41 [TestAddContracts.py line:109]DEBUG:用户 980850796@qq.com 添加联系人对象名字hh电话1111111邮箱hh@qq.com
+2018/05/23/23:46:41 [TestAddContracts.py line:132]DEBUG:用户 980850796@qq.com 添加联系人hh成功
+2018/05/23/23:46:41 [TestAddContracts.py line:137]DEBUG:需要添加的联系人个数contractNum为 = 1, 添加成功的联系人个数isExecuteNum为 = 1
+2018/05/23/23:46:41 [TestAddContracts.py line:146]DEBUG:为用户980850796@qq.com 添加 1个联系人，测试通过
+2018/05/23/23:46:41 [TestAddContracts.py line:95]DEBUG:用户 980850796@qq.com 需要添加联系人对象 xii
+2018/05/23/23:46:50 [TestAddContracts.py line:109]DEBUG:用户 980850796@qq.com 添加联系人对象名字xii电话2222222邮箱xixi@qq.com
+2018/05/23/23:46:50 [TestAddContracts.py line:132]DEBUG:用户 980850796@qq.com 添加联系人xii成功
+2018/05/23/23:46:50 [TestAddContracts.py line:137]DEBUG:需要添加的联系人个数contractNum为 = 2, 添加成功的联系人个数isExecuteNum为 = 2
+2018/05/23/23:46:50 [TestAddContracts.py line:146]DEBUG:为用户980850796@qq.com 添加 2个联系人，测试通过
+2018/05/23/23:46:50 [TestAddContracts.py line:134]DEBUG:用户 980850796@qq.com 不需要添加联系人对象 wahd
+2018/05/23/23:46:50 [TestAddContracts.py line:137]DEBUG:需要添加的联系人个数contractNum为 = 2, 添加成功的联系人个数isExecuteNum为 = 2
+2018/05/23/23:46:50 [TestAddContracts.py line:146]DEBUG:为用户980850796@qq.com 添加 2个联系人，测试通过
+2018/05/23/23:46:50 [TestAddContracts.py line:95]DEBUG:用户 980850796@qq.com 需要添加联系人对象 chsh
+2018/05/23/23:46:58 [TestAddContracts.py line:109]DEBUG:用户 980850796@qq.com 添加联系人对象名字chsh电话444444444邮箱chsh@qq.com
+2018/05/23/23:46:59 [TestAddContracts.py line:132]DEBUG:用户 980850796@qq.com 添加联系人chsh成功
+2018/05/23/23:46:59 [TestAddContracts.py line:137]DEBUG:需要添加的联系人个数contractNum为 = 3, 添加成功的联系人个数isExecuteNum为 = 3
+2018/05/23/23:46:59 [TestAddContracts.py line:146]DEBUG:为用户980850796@qq.com 添加 3个联系人，测试通过
+2018/05/23/23:47:02 [TestAddContracts.py line:155]INFO:为用户980850796@qq.com 添加 3个联系人，测试通过
+2018/05/23/23:47:02 [TestAddContracts.py line:160]INFO:用户18513415256被设置为忽略执行

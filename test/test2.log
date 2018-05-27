@@ -1,0 +1,9 @@
+2018-05-13 18:49:25,707 F:\DataDriverFrameWork\test\test2.py(12): INFO test2 info mesage will wirte in test2.log
+2018-05-13 18:49:25,707 F:\DataDriverFrameWork\test\test2.py(13): WARNING test2 warning mesage will wirte in test2.log
+2018-05-13 18:49:25,707 F:\DataDriverFrameWork\test\test2.py(14): DEBUG test2 debug mesage will wirte in test2.log
+2018-05-13 18:54:31,754 F:\DataDriverFrameWork\test\test2.py(12): INFO test2 info mesage will wirte in test2.log
+2018-05-13 18:54:31,754 F:\DataDriverFrameWork\test\test2.py(13): WARNING test2 warning mesage will wirte in test2.log
+2018-05-13 18:54:31,769 F:\DataDriverFrameWork\test\test2.py(14): DEBUG test2 debug mesage will wirte in test2.log
+2018-05-13 18:54:47,807 F:\DataDriverFrameWork\test\test2.py(12): INFO test2 info mesage will wirte in test2.log
+2018-05-13 18:54:47,854 F:\DataDriverFrameWork\test\test2.py(13): WARNING test2 warning mesage will wirte in test2.log
+2018-05-13 18:54:47,854 F:\DataDriverFrameWork\test\test2.py(14): DEBUG test2 debug mesage will wirte in test2.log
