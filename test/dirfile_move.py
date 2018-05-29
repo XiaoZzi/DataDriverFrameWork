@@ -54,7 +54,7 @@ def copy_file_and_check(path_org, path_moveto):
         elif sum([len(x) for _, _, x in os.walk(path_org)]) > sum([len(x) for _, _, x in os.walk(path_moveto)]):
             print('复制后文件个数小于源文件夹文件总数，可能源文件夹有重名文件')
         else:
-            print('复制后文件个数小于源文件夹文件总数，233333333~')
+            print('复制后文件个数大于源文件夹文件总数，233333333~')
 
 
 touch_dir_type(path_org='F:\\testdir', path_moveto='F:\\type')
