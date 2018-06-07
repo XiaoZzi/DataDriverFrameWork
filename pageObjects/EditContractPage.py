@@ -15,18 +15,17 @@ class EditContracts(object):
                 self.editContract['editContractsMessagePage.table'.lower()].split('>')
             element_obj = get_element(d=self.driver, locate_type=locate_type,
                                       locate_expression=locate_expression)
-            print(locate_type, locate_expression)
             return element_obj
         except Exception as e:
             raise e
 
-    def contract_table_rows(self):
+    def contract_table_rows(self, dd):
+
         try:
             locate_type, locate_expression = \
                 self.editContract['editContractsMessagePage.tableRows'.lower()].split('>')
-            element_obj = get_elements(d=self.driver, locate_type=locate_type,
+            element_obj = get_elements(d=dd, locate_type=locate_type,
                                        locate_expression=locate_expression)
-            print(element_obj)
             return element_obj
         except Exception as e:
             raise e
@@ -57,12 +56,11 @@ if __name__ == '__main__':
     from pageObjects.HomePage import HomePage
     address = HomePage(d=driver)
     address.addresslink().click()
-    time.sleep(5)
+    time.sleep(2)
     # 删除用户
     # table = driver.find_element_by_id('mtg-activity-table')
     # print(len(table.find_elements_by_tag_name('tr')))
     a = EditContracts(d=driver)
     table = a.contract_table()
-    print('table_rows:', len(table.contract_table_rows()))
-    time.sleep(3)
+    print('table_rows:', len(a.contract_table_rows(table)))
     driver.quit()

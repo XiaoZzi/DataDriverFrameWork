@@ -18,7 +18,7 @@ def get_element(d, locate_type, locate_expression):
 def get_elements(d, locate_type, locate_expression):
     try:
         elements = WebDriverWait(d, 30).until(
-            (lambda x: x.find_element(by=locate_type, value=locate_expression))
+            (lambda x: x.find_elements(by=locate_type, value=locate_expression))
         )
         return elements
     except Exception as e:
