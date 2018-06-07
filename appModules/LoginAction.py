@@ -10,8 +10,10 @@ class LoginAction(object):
     def login(d, username, password):
         try:
             login = LoginPage(d)
-            login.username_obj().send_keys(username)
-            login.password_obj().send_keys(password)
+            if username:
+                login.username_obj().send_keys(username)
+            if password:
+                login.password_obj().send_keys(password)
             login.login_button().click()
         except Exception as e:
             raise e

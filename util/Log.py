@@ -4,11 +4,9 @@ import logging.config
 from config.VarConfig import parentDirPath
 
 # 读取日志配置文件
-logging.config.fileConfig(parentDirPath + u'\config\Logger-b.conf')
-# logging.config.fileConfig(parentDirPath + u'\\test\\logging.conf')
+logging.config.fileConfig(parentDirPath + u'\config\Logger.conf')
 # 选择一个日志格式
 logger = logging.getLogger("example01")    # or example01
-# logger = logging.getLogger("test1")    # or example01
 
 
 def debug(message):

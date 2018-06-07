@@ -20,6 +20,7 @@ class AddressBookPage(object):
             raise e
 
     def switch_to_frame(self):
+        # 跳转到新建联系人的弹窗
         try:
             locate_expression = self.addContractOptions["addContractPage.frame".lower()].split('>')[1]
             self.driver.switch_to.frame(locate_expression)
@@ -27,12 +28,14 @@ class AddressBookPage(object):
             raise e
 
     def switch_to_default_frame(self):
+        # 跳转到默认frame
         try:
             self.driver.switch_to.default_content()
         except Exception as e:
             raise e
 
     def contract_person_name(self):
+        # 添加联系人时，弹窗上输入联系人姓名
         try:
             locate_type, locate_expression = \
                 self.addContractOptions["addContractPage.contractPersonName".lower()].split('>')
@@ -42,7 +45,7 @@ class AddressBookPage(object):
             raise e
 
     def contract_person_mobile(self):
-        # 获取新建联系人界面中的电话输入框
+        # 添加联系人时，弹窗上输入联系人电话
         try:
             locate_type, locate_expression = \
                 self.addContractOptions["addContractPage.contractPersonMobile".lower()].split('>')
@@ -52,7 +55,7 @@ class AddressBookPage(object):
             return e
 
     def contract_person_email(self):
-        # 获取新建联系人界面中的备注输入框
+        # 添加联系人时，弹窗上输入联系人邮箱
         try:
             locate_type, locate_expression = \
                 self.addContractOptions["addContractPage.contractPersonEmail".lower()].split('>')
@@ -62,7 +65,7 @@ class AddressBookPage(object):
             return e
 
     def save_contract_person(self):
-        # 获取新建联系人界面中的确定按钮
+        # 添加联系人时，弹窗上输入联系人邮箱
         try:
             locate_type, locate_expression = \
                 self.addContractOptions["addContractPage.saveContractBtn".lower()].split('>')
